@@ -1,0 +1,40 @@
+body{
+    background-image:url('https://www.wowpatterns.com/assets/files/resource_images/blue-beige-checkered-stripes-seamless-vector-background-pattern.jpg');
+}
+.tableaustyle{
+    display: block;
+    margin: auto;
+    margin-top: 600px;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    display: block;
+    color: rgb(220, 220, 7);
+    font-size: xx-large;
+    font-weight: bold;
+}
+img{
+    margin-right: 200px;
+    margin-top: 70px;
+    float: right;
+    height: 560px;
+    width: 315;
+}
+ol{
+    color: rgb(220, 220, 7);
+    font-weight: 600;
+    background-color: black;
+}
+a{
+    color: rgb(220, 220, 7) ;
+    font-size: larger;
+    font-weight: bold;
+    background-color: black;
+    position: relative;
+}
+iframe{
+    float: left;
+    margin-top: 150px;
+    margin-left: 200px;
+}
